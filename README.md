@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N Sudharshan Reddy</h1>
-<h3 align="center">I am Passionate about LLM's and also into Machine Learning.</h3>
+<h3 align="center">I am guy who is Passionate about LLM's and also into Machine Learning.</h3>
 
 - 🌱 I’m currently learning **NLP and its architectures**
 
