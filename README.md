@@ -1,7 +1,7 @@
 Hello 👋, My name is **N Sudharshan Reddy**
 
 # 💫 About Me:
-| Analytical Thinker and Problem Solver <br>| Passionate about LLM's, Machine Learning and Computer Vision<br>| Front-End Developer
+| Analytical Thinker and Problem Solver <br>| Passionate about LLM's, Machine Learning and Computer Vision<br>
 
 
 ## 🌐 Socials:
